@@ -15,7 +15,8 @@ https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pa
 
 def test_related_courses():
 https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-7-waterfall/blob/main/Education_Pathways/tests/test_app.py#L94-L100
-
+Note: no name here but this is from my commit here:
+https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-7-waterfall/pull/19/commits/266e20e56a55544a6e07f4bea2e40c5cf83b802d
 # Pros of TDD
 TDD encourages modular design as you write tests at a unit level. This results in many benefits in the long term. For example, having more modular design makes it easier to maintain and refactor code as the modular nature of the code means that it is decoupled from other pieces of code. This means there are less dependencies in your code, thus making a single change won’t result in a cascade of other changes that need to be done. Additionally, having a test suite is a good to ensure that when changes occur, we have been guaranteed a minimum amount of coverage for any new bugs that may occur given that the test suite passes. This is crucial for long term projects where code is complex and any change may completely break the code, and allows less debugging.
 # Cons of TDD
