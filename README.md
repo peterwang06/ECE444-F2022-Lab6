@@ -1,5 +1,6 @@
 # ECE444-F2022-Lab6
 Peter Wang
+Example followed from https://github.com/mjhea0/flaskr-tdd 
 
 # Deployed app
 https://lab6-reactr.herokuapp.com/
